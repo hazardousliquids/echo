@@ -10,6 +10,7 @@ sidebar:
     # Profile information
     name: Echo Henderson
     tagline: they/them 
+    
              Cloud Security Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -17,7 +18,7 @@ sidebar:
     email: echo@hazardousliquids.dev
     timezone: America/Pacific timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: echo-henderson
     github: hazardousliquids
     telegram: # add your nickname without '@' sign
@@ -35,208 +36,87 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Indigenous rights
+        link:
+
+        - item: 2SLGBTQ+ rights
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Crochet
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Accomplished Software Engineer with extensive experience in vulnerability management, cloud security, and risk assessments.
+      Proven track record of creating innovative tools and solutions, standardizing processes, and driving compliance across teams and cloud environments. Adept at assessing risks, educating on security practices, and delivering strategic solutions.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+      - degree: BS Software Engineering Technology 
+        university: Oregon Institute of Technology
+        time: 2013 - 2017
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Engineer
+        time: 2020 - 2023
+        company: Nordstrom, inc
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Transformed asset management by overhauling inefficiencies within existing infrastructure; 
+            designed and implemented seamless, resilient, and cost-effective solution that substantially 
+            lowered expenses while enhancing asset inventory accuracy
+            - Orchestrated successful implementation and configuration of open-source vulnerability management 
+            reporting tool (Defect Dojo), ensuring 100% alignment with Nordstrom standards and bolstering 
+            security throughout multi-billion-dollar enterprise
+            - Deployed and maintained Qualys cloud infrastructure, leading to heightened identification and 
+            mitigation of vulnerabilities
+            - Established rigorous standards across teams, departments, and organization, 
+            fostering culture of security excellence
+            - Evaluated and communicated potential risks and threats, facilitating informed decision-making 
+            by stakeholders; spearheaded training and consultancy efforts to elevate organization's adoption 
+            of best practices, fortifying overall security posture
+      - role: Cloud Security Engineer
+        time: 2017 - 2020
+        company: Nordstrom, inc
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Spearheaded construction of automated scanning, evidence gathering, and remediation system for 
+             AWS IAM Users, certifying regulatory compliance while decreasing need for manual intervention
+            - Pioneered creation of remediation suite for an in-house scanning tool, automating resolution of 
+            nondestructive failed CIS benchmarks, fortifying secure cloud infrastructure, and enabling multi-cloud 
+            benchmark scanning and visualization
+            - Thoroughly documented and remediated risks within Nordstrom's dynamic cloud environments and instilled 
+            unified approach to cloud security across teams, ensuring robust measures and end-to-end compliance adherence
+            - Innovated scripts and deployments for diverse cloud platforms, increasing efficiency and reducing operational complexities
+            - Constructed intuitive, single-pane-of-glass compliance view spanning multiple cloud environments, streamlining audit process
+            - Served as primary engineer for PCI cloud assessments, successfully ensuring organization's alignment with PCI requirements
+
+      - role: Assessments Engineer
+        time: July 2017 - December 2017
+        company: Nordstrom, inc
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Conducted meticulous assessments of internal technologies in accordance with industry best practices, 
+            and proactively surfaced concerns to proper leadership related to both internal and vendor technologies, 
+            driving regulatory compliance and risk management
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - role: INTERN (CLOUD INFRASTRUCTURE & SECURITY)
+        time: Nordstrom, June 2015 - March 2017
+        company: Nordstrom, inc
+        details: |
+            - Instituted cutting-edge Lambda function to audit and analyze security group rules within AWS, 
+            eliminating overly permissive rules and maintaining PCI-compliant environment while logging results
+            for comprehensive monitoring and assessment
+            - Built and launched new infrastructure solution after existing cloud architecture became overwhelmed 
+            and incapable of supporting regulated data, leading to improved ease, security, and compliance for 
+            application deployment across organization
+            - Engineered impactful security group remediation strategies as well as self-service agent check mechanism, 
+            significantly removing potential attack vectors, optimizing operational workflows, and automating security check process
+            - Took charge of on-call responsibilities, providing expert education on AWS services, Nordstrom infrastructure, 
+            and application team issues, contributing to swift issue resolution and continuous improvement
 
 skills:
     title: Skills &amp; Proficiency

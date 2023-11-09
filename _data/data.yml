@@ -61,6 +61,7 @@ education:
       - degree: BS Software Engineering Technology 
         university: Oregon Institute of Technology
         time: 2013 - 2017
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -82,10 +83,11 @@ skills:
     
     - name: Sketch & Photoshop
     level: 60%
+    
 experiences:
     title: Experience
     info:
-      - role: Senior Engineer
+      - role: Senior Vulnerability Management Engineer
         time: 2020 - 2023
         company: Nordstrom, inc
         details: |

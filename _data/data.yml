@@ -84,7 +84,8 @@ experiences:
         details: |
             - Transformed asset management by overhauling inefficiencies within existing infrastructure; 
             designed and implemented seamless, resilient, and cost-effective solution that substantially 
-            lowered expenses while enhancing asset inventory accuracy
+            lowered expenses while enhancing asset inventory accuracy            
+            - Served as primary engineer for vulnerability management PCI assessments, successfully meeting and exceeding PCI requirements
             - Orchestrated successful implementation and configuration of open-source vulnerability management 
             reporting tool (Defect Dojo), ensuring 100% alignment with Nordstrom standards and bolstering 
             security throughout multi-billion-dollar enterprise
@@ -99,6 +100,7 @@ experiences:
         time: 2017 - 2020
         company: Nordstrom, inc
         details: |
+            - Served as primary engineer for PCI cloud assessments, successfully ensuring organization's alignment with PCI requirements
             - Spearheaded construction of automated scanning, evidence gathering, and remediation system for 
              AWS IAM Users, certifying regulatory compliance while decreasing need for manual intervention
             - Pioneered creation of remediation suite for an in-house scanning tool, automating resolution of 
@@ -108,7 +110,6 @@ experiences:
             unified approach to cloud security across teams, ensuring robust measures and end-to-end compliance adherence
             - Innovated scripts and deployments for diverse cloud platforms, increasing efficiency and reducing operational complexities
             - Constructed intuitive, single-pane-of-glass compliance view spanning multiple cloud environments, streamlining audit process
-            - Served as primary engineer for PCI cloud assessments, successfully ensuring organization's alignment with PCI requirements
       - role: Assessments Engineer
         time: July 2017 - December 2017
         company: Nordstrom, inc

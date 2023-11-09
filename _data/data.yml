@@ -18,6 +18,7 @@ sidebar:
     # Sidebar links
     email: echo@hazardousliquids.dev
     timezone: America/Pacific timezone
+    citizenship:
     citizenship: Vancouver, Washington
     website:  #do not add http://
     linkedin: echo-henderson
@@ -30,42 +31,35 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
-
     languages:
       title: Languages
       info:
         - idiom: English
           level: Native
-
     interests:
       title: Interests
       info:
         - item: Indigenous rights
           link:
-
         - item: 2SLGBTQ+ rights
           link:
-
         - item: Crochet
           link:
-
 career-profile:
     title: Career Profile
     summary: |
       Accomplished Software Engineer with extensive experience in vulnerability management, cloud security, and risk assessments.
       Proven track record of creating innovative tools and solutions, standardizing processes, and driving compliance across teams and cloud environments. Adept at assessing risks, educating on security practices, and delivering strategic solutions.
-
 education:
     title: Education
     info:
       - degree: BS Software Engineering Technology 
         university: Oregon Institute of Technology
         time: 2013 - 2017
-    
 experiences:
     title: Experience
     info:
-      - role: Senior Vulnerability Management Engineer
+      - role: Senior Engineer
         time: 2020 - 2023
         company: Nordstrom, inc
         details: |
@@ -96,7 +90,6 @@ experiences:
             - Innovated scripts and deployments for diverse cloud platforms, increasing efficiency and reducing operational complexities
             - Constructed intuitive, single-pane-of-glass compliance view spanning multiple cloud environments, streamlining audit process
             - Served as primary engineer for PCI cloud assessments, successfully ensuring organization's alignment with PCI requirements
-
       - role: Assessments Engineer
         time: July 2017 - December 2017
         company: Nordstrom, inc
@@ -104,8 +97,7 @@ experiences:
             - Conducted meticulous assessments of internal technologies in accordance with industry best practices, 
             and proactively surfaced concerns to proper leadership related to both internal and vendor technologies, 
             driving regulatory compliance and risk management
-
-      - role: INTERN (CLOUD & SECURITY)
+      - role: INTERN (CLOUD INFRASTRUCTURE & SECURITY)
         time: Nordstrom, June 2015 - March 2017
         company: Nordstrom, inc
         details: |
@@ -121,24 +113,18 @@ experiences:
             and application team issues, contributing to swift issue resolution and continuous improvement
 skills:
     title: Skills &amp; Proficiency
-
-        toolset:
-            - name: Python & Django
-            level: 98%
-            
-            - name: Javascript & jQuery
-            level: 98%
-            
-            - name: Angular
-            level: 98%
-            
-            - name: HTML5 & CSS
-            level: 95%
-            
-            - name: Ruby on Rails
-            level: 85%
-            
-            - name: Sketch & Photoshop
-            level: 60% 
+    toolset:
+      - name: Python & Django
+        level: 98%
+      - name: Javascript & jQuery
+        level: 98%
+      - name: Angular
+        level: 98%
+      - name: HTML5 & CSS
+        level: 95%
+      - name: Ruby on Rails
+        level: 85%
+      - name: Sketch & Photoshop
+        level: 60%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -8,19 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Echo Henderson
-    tagline: | 
-                they/them 
-                
+    name: Echo Henderson (They/Them)
+    tagline: |
                 Cloud Security Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: echo@hazardousliquids.dev
     timezone: America/Pacific timezone
-    citizenship:
     citizenship: Vancouver, Washington
-    website:  #do not add http://
+    website: "You're Here!" #do not add http://
     linkedin: echo-henderson
     github: hazardousliquids
     telegram: # add your nickname without '@' sign
@@ -121,7 +118,7 @@ experiences:
             - Conducted meticulous assessments of internal technologies in accordance with industry best practices, 
             and proactively surfaced concerns to proper leadership related to both internal and vendor technologies, 
             driving regulatory compliance and risk management
-      - role: INTERN (CLOUD INFRASTRUCTURE & SECURITY)
+      - role: INTERN (CLOUD & SECURITY)
         time: Nordstrom, June 2015 - March 2017
         company: Nordstrom, inc
         details: |

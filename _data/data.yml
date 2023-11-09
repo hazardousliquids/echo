@@ -61,27 +61,7 @@ education:
       - degree: BS Software Engineering Technology 
         university: Oregon Institute of Technology
         time: 2013 - 2017
-skills:
-    title: Skills &amp; Proficiency
-
-        toolset:
-            - name: Python & Django
-            level: 98%
-            
-            - name: Javascript & jQuery
-            level: 98%
-            
-            - name: Angular
-            level: 98%
-            
-            - name: HTML5 & CSS
-            level: 95%
-            
-            - name: Ruby on Rails
-            level: 85%
-            
-            - name: Sketch & Photoshop
-            level: 60%     
+    
 experiences:
     title: Experience
     info:
@@ -139,7 +119,26 @@ experiences:
             significantly removing potential attack vectors, optimizing operational workflows, and automating security check process
             - Took charge of on-call responsibilities, providing expert education on AWS services, Nordstrom infrastructure, 
             and application team issues, contributing to swift issue resolution and continuous improvement
+skills:
+    title: Skills &amp; Proficiency
 
-
+        toolset:
+            - name: Python & Django
+            level: 98%
+            
+            - name: Javascript & jQuery
+            level: 98%
+            
+            - name: Angular
+            level: 98%
+            
+            - name: HTML5 & CSS
+            level: 95%
+            
+            - name: Ruby on Rails
+            level: 85%
+            
+            - name: Sketch & Photoshop
+            level: 60% 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -77,7 +77,7 @@ skills:
 experiences:
     title: Experience
     info:
-      - role: Senior Engineer
+        - role: Senior Engineer
         time: 2020 - 2023
         company: Nordstrom, inc
         details: |
@@ -95,16 +95,16 @@ experiences:
             - Evaluated and communicated potential risks and threats, facilitating informed decision-making 
             by stakeholders; spearheaded training and consultancy efforts to elevate organization's adoption 
             of best practices, fortifying overall security posture
-
-    - role: Marketing and Web comittee member/Webmaster
-        time: 2017 - 2023
-        company: <a href="https://www.reddresspdx.org/">RedDress PDX</a>
-        details: |
-            - Completely transformed web precence to allow for easier identitfication, communication, legitamacy of one of the largest
-            2SLGBTQ+ organizations in Portland
-            - Assured PCI compliance of the organization through documentation and communication
-            - Evalutated and communicated insecurities within legacy web system and options for change
-      - role: Cloud Security Engineer
+        
+        - role: Marketing and Web comittee member/Webmaster
+          time: 2017 - 2023
+          company: RedDress PDX
+          details: |
+                - Completely transformed web precence to allow for easier identitfication, communication, legitamacy of one of the largest
+                2SLGBTQ+ organizations in Portland
+                - Assured PCI compliance of the organization through documentation and communication
+                - Evalutated and communicated insecurities within legacy web system and options for change
+        - role: Cloud Security Engineer
         time: 2017 - 2020
         company: Nordstrom, inc
         details: |
@@ -118,22 +118,22 @@ experiences:
             unified approach to cloud security across teams, ensuring robust measures and end-to-end compliance adherence
             - Innovated scripts and deployments for diverse cloud platforms, increasing efficiency and reducing operational complexities
             - Constructed intuitive, single-pane-of-glass compliance view spanning multiple cloud environments, streamlining audit process
-     - role: Night Of Lead
+        - role: Night Of Lead
         time: 2017 - 2023
         company: RedDress PDX
         details: |
-        	- Ensured all volunteers received necessary supplies and were relieved as necessary to ensure seamless event
-        	- Worked with board members, event staff, and venue staff to ensure any issues that arose were handled without disturbing guests
-        	- Ensured all guests were safe within the event and ensuring all guests were given opportunities for ride share if necessary
-        	- Used OLCC license to ensure no guests presented a risk to themselves or others
-      - role: Assessments Engineer
+            - Ensured all volunteers received necessary supplies and were relieved as necessary to ensure seamless event
+            - Worked with board members, event staff, and venue staff to ensure any issues that arose were handled without disturbing guests
+            - Ensured all guests were safe within the event and ensuring all guests were given opportunities for ride share if necessary
+            - Used OLCC license to ensure no guests presented a risk to themselves or others
+        - role: Assessments Engineer
         time: July 2017 - December 2017
         company: Nordstrom, inc
         details: |
             - Conducted meticulous assessments of internal technologies in accordance with industry best practices, 
             and proactively surfaced concerns to proper leadership related to both internal and vendor technologies, 
             driving regulatory compliance and risk management
-      - role: Intern (Cloud and Security)
+        - role: Intern (Cloud and Security)
         time: Nordstrom, June 2015 - March 2017
         company: Nordstrom, inc
         details: |

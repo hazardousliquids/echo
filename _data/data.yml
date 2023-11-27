@@ -97,13 +97,13 @@ experiences:
             of best practices, fortifying overall security posture
         
         - role: Marketing and Web comittee member/Webmaster
-          time: 2017 - 2023
-          company: RedDress PDX
-          details: |
-                - Completely transformed web precence to allow for easier identitfication, communication, legitamacy of one of the largest
-                2SLGBTQ+ organizations in Portland
-                - Assured PCI compliance of the organization through documentation and communication
-                - Evalutated and communicated insecurities within legacy web system and options for change
+        time: 2017 - 2023
+        company: RedDress PDX
+        details: |
+           - Completely transformed web precence to allow for easier identitfication, communication, legitamacy of one of the largest
+            2SLGBTQ+ organizations in Portland
+           - Assured PCI compliance of the organization through documentation and communication
+           - Evalutated and communicated insecurities within legacy web system and options for change
         - role: Cloud Security Engineer
         time: 2017 - 2020
         company: Nordstrom, inc

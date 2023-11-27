@@ -1,152 +1,187 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
+---
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Echo Henderson (They/Them)
-    tagline: |
-                Cloud Security Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: echo@hazardousliquids.dev
-    timezone: America/Pacific timezone
-    citizenship: Vancouver, Washington
-    linkedin: echo-henderson
-    github: hazardousliquids
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@hazardousliquid'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-    interests:
-      title: Interests
-      info:
-        - item: Indigenous rights
-          link:
-        - item: 2SLGBTQ+ rights
-          link:
-        - item: Crochet
-          link:
+  position: right
+  about: true
+  education: true
+  name: Echo Henderson (They/Them)
+  tagline: |
+    Cloud Security Engineer
+  avatar: profile.png
+  email: echo@hazardousliquids.dev
+  timezone: America/Pacific timezone
+  citizenship: Vancouver, Washington
+  linkedin: echo-henderson
+  github: hazardousliquids
+  telegram: null
+  gitlab: null
+  bitbucket: null
+  twitter: "@hazardousliquid"
+  stack-overflow: null
+  codewars: null
+  goodreads: null
+  pdf: null
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Native
+  interests:
+    title: Interests
+    info:
+      - item: Indigenous rights
+        link: null
+      - item: 2SLGBTQ+ rights
+        link: null
+      - item: Crochet
+        link: null
 career-profile:
-    title: Career Profile
-    summary: |
-      Accomplished Software Engineer with extensive experience in vulnerability management, cloud security, and risk assessments.
-      Proven track record of creating innovative tools and solutions, standardizing processes, and driving compliance across teams and cloud environments. Adept at assessing risks, educating on security practices, and delivering strategic solutions.
-education:
-    title: Education
-    info:
-      - degree: BS Software Engineering Technology 
-        university: Oregon Institute of Technology
-        time: 2013 - 2017
-skills:
-    title: Skills &amp; Skill Levels
-    toolset:
-      - name: AWS
-        level: 98%
-      - name: Python & Django
-        level: 98%
-      - name: C/C++
-        level: 98%
-      - name: Bash
-        level: 80%
-      - name: Azure
-        level: 80%
-      - name: GCP (Google Cloud Platform)
-        level: 80%
-      - name: PCI Compliance
-        level: 80%
-      - name: HTML5 & CSS
-        level: 80%
-      - name: SQL
-        level: 75%
-        
-experiences:
-    title: Experience
-    info:
-        - role: Senior Engineer
-        time: 2020 - 2023
-        company: Nordstrom, inc
-        details: |
-            - Transformed asset management by overhauling inefficiencies within existing infrastructure; 
-            designed and implemented seamless, resilient, and cost-effective solution that substantially 
-            lowered expenses while enhancing asset inventory accuracy            
-            - Served as primary engineer for vulnerability management PCI assessments, successfully meeting and exceeding PCI requirements
-            - Orchestrated successful implementation and configuration of open-source vulnerability management 
-            reporting tool (Defect Dojo), ensuring 100% alignment with Nordstrom standards and bolstering 
-            security throughout multi-billion-dollar enterprise
-            - Deployed and maintained Qualys cloud infrastructure, leading to heightened identification and 
-            mitigation of vulnerabilities
-            - Established rigorous standards across teams, departments, and organization, 
-            fostering culture of security excellence
-            - Evaluated and communicated potential risks and threats, facilitating informed decision-making 
-            by stakeholders; spearheaded training and consultancy efforts to elevate organization's adoption 
-            of best practices, fortifying overall security posture
-        
-        - role: Marketing and Web comittee member/Webmaster
-        time: 2017 - 2023
-        company: RedDress PDX
-        details: |
-           - Completely transformed web precence to allow for easier identitfication, communication, legitamacy of one of the largest
-            2SLGBTQ+ organizations in Portland
-           - Assured PCI compliance of the organization through documentation and communication
-           - Evalutated and communicated insecurities within legacy web system and options for change
-        - role: Cloud Security Engineer
-        time: 2017 - 2020
-        company: Nordstrom, inc
-        details: |
-            - Served as primary engineer for PCI cloud assessments, successfully ensuring organization's alignment with PCI requirements
-            - Spearheaded construction of automated scanning, evidence gathering, and remediation system for 
-             AWS IAM Users, certifying regulatory compliance while decreasing need for manual intervention
-            - Pioneered creation of remediation suite for an in-house scanning tool, automating resolution of 
-            nondestructive failed CIS benchmarks, fortifying secure cloud infrastructure, and enabling multi-cloud 
-            benchmark scanning and visualization
-            - Thoroughly documented and remediated risks within Nordstrom's dynamic cloud environments and instilled 
-            unified approach to cloud security across teams, ensuring robust measures and end-to-end compliance adherence
-            - Innovated scripts and deployments for diverse cloud platforms, increasing efficiency and reducing operational complexities
-            - Constructed intuitive, single-pane-of-glass compliance view spanning multiple cloud environments, streamlining audit process
-        - role: Night Of Lead
-        time: 2017 - 2023
-        company: RedDress PDX
-        details: |
-            - Ensured all volunteers received necessary supplies and were relieved as necessary to ensure seamless event
-            - Worked with board members, event staff, and venue staff to ensure any issues that arose were handled without disturbing guests
-            - Ensured all guests were safe within the event and ensuring all guests were given opportunities for ride share if necessary
-            - Used OLCC license to ensure no guests presented a risk to themselves or others
-        - role: Assessments Engineer
-        time: July 2017 - December 2017
-        company: Nordstrom, inc
-        details: |
-            - Conducted meticulous assessments of internal technologies in accordance with industry best practices, 
-            and proactively surfaced concerns to proper leadership related to both internal and vendor technologies, 
-            driving regulatory compliance and risk management
-        - role: Intern (Cloud and Security)
-        time: Nordstrom, June 2015 - March 2017
-        company: Nordstrom, inc
-        details: |
-            - Instituted cutting-edge Lambda function to audit and analyze security group rules within AWS, 
-            eliminating overly permissive rules and maintaining PCI-compliant environment while logging results
-            for comprehensive monitoring and assessment
-            - Built and launched new infrastructure solution after existing cloud architecture became overwhelmed 
-            and incapable of supporting regulated data, leading to improved ease, security, and compliance for 
-            application deployment across organization
-            - Engineered impactful security group remediation strategies as well as self-service agent check mechanism, 
-            significantly removing potential attack vectors, optimizing operational workflows, and automating security check process
-            - Took charge of on-call responsibilities, providing expert education on AWS services, Nordstrom infrastructure, 
-            and application team issues, contributing to swift issue resolution and continuous improvement
+  title: Career Profile
+  summary: >
+    Accomplished Software Engineer with extensive experience in
+    vulnerability management, cloud security, and risk assessments.
 
+    Proven track record of creating innovative tools and solutions, standardizing processes, and driving compliance across teams and cloud environments. Adept at assessing risks, educating on security practices, and delivering strategic solutions.
+education:
+  title: Education
+  info:
+    - degree: BS Software Engineering Technology
+      university: Oregon Institute of Technology
+      time: 2013 - 2017
+skills:
+  title: Skills &amp; Skill Levels
+  toolset:
+    - name: AWS
+      level: 98%
+    - name: Python & Django
+      level: 98%
+    - name: C/C++
+      level: 98%
+    - name: Bash
+      level: 80%
+    - name: Azure
+      level: 80%
+    - name: GCP (Google Cloud Platform)
+      level: 80%
+    - name: PCI Compliance
+      level: 80%
+    - name: HTML5 & CSS
+      level: 80%
+    - name: SQL
+      level: 75%
+experiences:
+  title: Experience
+  info:
+    - role: Senior Engineer
+      time: 2020 - 2023
+      company: Nordstrom, inc
+      details: >
+        - Transformed asset management by overhauling inefficiencies within
+        existing infrastructure; 
+
+        designed and implemented seamless, resilient, and cost-effective solution that substantially 
+
+        lowered expenses while enhancing asset inventory accuracy            
+
+        - Served as primary engineer for vulnerability management PCI assessments, successfully meeting and exceeding PCI requirements
+
+        - Orchestrated successful implementation and configuration of open-source vulnerability management 
+
+        reporting tool (Defect Dojo), ensuring 100% alignment with Nordstrom standards and bolstering 
+
+        security throughout multi-billion-dollar enterprise
+
+        - Deployed and maintained Qualys cloud infrastructure, leading to heightened identification and 
+
+        mitigation of vulnerabilities
+
+        - Established rigorous standards across teams, departments, and organization, 
+
+        fostering culture of security excellence
+
+        - Evaluated and communicated potential risks and threats, facilitating informed decision-making 
+
+        by stakeholders; spearheaded training and consultancy efforts to elevate organization's adoption 
+
+        of best practices, fortifying overall security posture
+    - role: Marketing and Web committee member/Webmaster
+      time: 2017 - 2023
+      company: RedDress PDX
+      details: >
+        - Completely transformed web precence to allow for easier
+        identitfication, communication, legitamacy of one of the largest
+         2SLGBTQ+ organizations in Portland
+        - Assured PCI compliance of the organization through documentation and communication
+
+        - Evalutated and communicated insecurities within legacy web system and options for change
+    - role: Cloud Security Engineer
+      time: 2017 - 2020
+      company: Nordstrom, inc
+      details: >
+        - Served as primary engineer for PCI cloud assessments, successfully
+        ensuring organization's alignment with PCI requirements
+
+        - Spearheaded construction of automated scanning, evidence gathering, and remediation system for 
+         AWS IAM Users, certifying regulatory compliance while decreasing need for manual intervention
+        - Pioneered creation of remediation suite for an in-house scanning tool, automating resolution of 
+
+        nondestructive failed CIS benchmarks, fortifying secure cloud infrastructure, and enabling multi-cloud 
+
+        benchmark scanning and visualization
+
+        - Thoroughly documented and remediated risks within Nordstrom's dynamic cloud environments and instilled 
+
+        unified approach to cloud security across teams, ensuring robust measures and end-to-end compliance adherence
+
+        - Innovated scripts and deployments for diverse cloud platforms, increasing efficiency and reducing operational complexities
+
+        - Constructed intuitive, single-pane-of-glass compliance view spanning multiple cloud environments, streamlining audit process
+    - role: Night Of Lead
+      time: 2017 - 2023
+      company: RedDress PDX
+      details: >
+        - Ensured all volunteers received necessary supplies and were relieved
+        as necessary to ensure seamless event
+
+        - Worked with board members, event staff, and venue staff to ensure any issues that arose were handled without disturbing guests
+
+        - Ensured all guests were safe within the event and ensuring all guests were given opportunities for ride share if necessary
+
+        - Used OLCC license to ensure no guests presented a risk to themselves or others
+    - role: Assessments Engineer
+      time: July 2017 - December 2017
+      company: Nordstrom, inc
+      details: >
+        - Conducted meticulous assessments of internal technologies in
+        accordance with industry best practices, 
+
+        and proactively surfaced concerns to proper leadership related to both internal and vendor technologies, 
+
+        driving regulatory compliance and risk management
+    - role: Intern (Cloud and Security)
+      time: Nordstrom, June 2015 - March 2017
+      company: Nordstrom, inc
+      details: >
+        - Instituted cutting-edge Lambda function to audit and analyze security
+        group rules within AWS, 
+
+        eliminating overly permissive rules and maintaining PCI-compliant environment while logging results
+
+        for comprehensive monitoring and assessment
+
+        - Built and launched new infrastructure solution after existing cloud architecture became overwhelmed 
+
+        and incapable of supporting regulated data, leading to improved ease, security, and compliance for 
+
+        application deployment across organization
+
+        - Engineered impactful security group remediation strategies as well as self-service agent check mechanism, 
+
+        significantly removing potential attack vectors, optimizing operational workflows, and automating security check process
+
+        - Took charge of on-call responsibilities, providing expert education on AWS services, Nordstrom infrastructure, 
+
+        and application team issues, contributing to swift issue resolution and continuous improvement
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a
+  href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying
+  Riley</a>

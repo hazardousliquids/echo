@@ -55,15 +55,13 @@ skills:
       level: 98%
     - name: C/C++
       level: 98%
-    - name: Linux Administration
+    - name: Linux & Windows Administration
       level: 80%
     - name: Azure
       level: 80%
-    - name: Windows Adminstration
+    - name: noSQL Databases
       level: 80%
     - name: PCI Compliance
-      level: 80%
-    - name: HTML5 & CSS
       level: 80%
     - name: SQL
       level: 75%

@@ -67,13 +67,15 @@ skills:
       level: 80%
     - name: SQL
       level: 75%
+      
 projects:
 title: Projects
-  intro: Some small side projects I've worked on
-  info:
-   - title: SucculentBot
-     tagline: A simple discord bot originally built for rolling fudge dice, expanded to roll any number side of dice
-  
+  intro: > 
+    Some small side projects I've worked on
+  assignments:
+    - title: SucculentBot
+      link: '#'
+      tagline: A simple discord bot originally built for rolling fudge dice, expanded to roll any number side of dice 
     - title: Red Dress PDX webpage
       tagline: A landing page for Red Dress PDX, a 501(c)(3) organization based in Portland Oregon
       link: https://www.reddresspdx.org/

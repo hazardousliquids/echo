@@ -67,10 +67,11 @@ skills:
       level: 80%
     - name: SQL
       level: 75%
+
       
 projects:
-  title: Projects
-    intro: > 
+    title: Projects
+    intro: >
       Some small side projects I've worked on
     assignments:
       - title: SucculentBot
